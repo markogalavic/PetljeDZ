@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\galavićMarkoPetljeDomaćaZadaća\galavićMarkoPetljeDomaćaZadaća\bin\Debug\galavićMarkoPetljeDomaćaZadaća.exe.config
+C:\Users\Korisnik\source\repos\galavićMarkoPetljeDomaćaZadaća\galavićMarkoPetljeDomaćaZadaća\bin\Debug\galavićMarkoPetljeDomaćaZadaća.exe
+C:\Users\Korisnik\source\repos\galavićMarkoPetljeDomaćaZadaća\galavićMarkoPetljeDomaćaZadaća\bin\Debug\galavićMarkoPetljeDomaćaZadaća.pdb
+C:\Users\Korisnik\source\repos\galavićMarkoPetljeDomaćaZadaća\galavićMarkoPetljeDomaćaZadaća\obj\Debug\galavićMarkoPetljeDomaćaZadaća.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\galavićMarkoPetljeDomaćaZadaća\galavićMarkoPetljeDomaćaZadaća\obj\Debug\galavićMarkoPetljeDomaćaZadaća.exe
+C:\Users\Korisnik\source\repos\galavićMarkoPetljeDomaćaZadaća\galavićMarkoPetljeDomaćaZadaća\obj\Debug\galavićMarkoPetljeDomaćaZadaća.pdb
